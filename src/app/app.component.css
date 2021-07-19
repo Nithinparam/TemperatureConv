@@ -1,0 +1,27 @@
+p {
+  font-family: Lato;
+}
+nav {
+  background-color: grey;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px;
+}
+li {
+  list-style: none;
+  background-color: blueviolet;
+  padding: 20px;
+  color: white;
+  text-align: center;
+  border-radius: 15px;
+}
+a {
+  color: whitesmoke;
+  text-decoration: none;
+}
+.myact {
+  background-color: brown;
+  padding: 50px;
+}
